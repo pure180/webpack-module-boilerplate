@@ -1,0 +1,14 @@
+{
+  "name": "webpack-module-boilerplate",
+  "version": "0.0.1",
+  "description": "Webpack boilerplate to compile modules",
+  "main": "index.js",
+  "repository": "https://github.com/pure180/webpack-module-boilerplate.git",
+  "author": "Daniel Pfisterer <info@daniel-pfisterer.de>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "glob": "^7.1.6",
+    "webpack": "^4.41.5"
+  }
+}
